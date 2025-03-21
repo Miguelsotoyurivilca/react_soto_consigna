@@ -1,0 +1,12 @@
+/* Estilos personalizados para Cafe Catalino */
+
+/* Puedes agregar aquí cualquier estilo personalizado que no se pueda lograr fácilmente con las clases de Tailwind */
+
+/* Por ejemplo: */
+.logo-animation {
+    transition: transform 0.3s ease;
+  }
+  
+  .logo-animation:hover {
+    transform: scale(1.1);
+  }
